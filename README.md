@@ -6,6 +6,3 @@
 
 #PYTHON 
 #nothing else :)
-
-
-#Automatically creates a .txt file (savdata.txt) in the folder and begins there.
